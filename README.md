@@ -48,3 +48,11 @@ python proxy.py --mode encrypt \
 python proxy.py --mode decrypt \
 --listen-ip 0.0.0.0 --listen-port 14551 \
 --forward-ip 127.0.0.1 --forward-port 14550
+
+## References
+- RFC 8439 – ChaCha20 and Poly1305 for IETF Protocols  
+- MAVSec: Securing the MAVLink Protocol for ArduPilot/PX4  
+- Enhancing MAVLink Security in UAV Systems (2025)  
+- Secure MAVLink Messaging with ChaCha20-Poly1305  
+- ChaCha20-Poly1305 for Embedded and UAV Systems  
+- Survey on Cryptographic Methods for UAV Communication Security  
